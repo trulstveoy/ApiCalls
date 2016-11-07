@@ -1,0 +1,14 @@
+C:\githubrepos\ApiCalls\ApiCalls.Contracts\bin\Debug\ApiCalls.Contracts.dll
+C:\githubrepos\ApiCalls\ApiCalls.Contracts\bin\Debug\ApiCalls.Contracts.pdb
+C:\githubrepos\ApiCalls\ApiCalls.Contracts\obj\Debug\ApiCalls.Contracts.csprojResolveAssemblyReference.cache
+C:\githubrepos\ApiCalls\ApiCalls.Contracts\obj\Debug\ApiCalls.Contracts.dll
+C:\githubrepos\ApiCalls\ApiCalls.Contracts\obj\Debug\ApiCalls.Contracts.pdb
+C:\githubrepos\ApiCalls\ApiCalls.Contracts\bin\Debug\Newtonsoft.Json.dll
+C:\githubrepos\ApiCalls\ApiCalls.Contracts\bin\Debug\Newtonsoft.Json.xml
+C:\githubrepos\ApiCalls\ApiCalls.Contracts\bin\Debug\Castle.Core.dll
+C:\githubrepos\ApiCalls\ApiCalls.Contracts\bin\Debug\Castle.Core.xml
+C:\githubrepos\ApiCalls\ApiCalls.Contracts\bin\Debug\ApiCalls.Contracts.dll.config
+C:\githubrepos\ApiCalls\ApiCalls.Contracts\bin\Debug\System.Net.Http.Formatting.dll
+C:\githubrepos\ApiCalls\ApiCalls.Contracts\bin\Debug\System.Web.Http.dll
+C:\githubrepos\ApiCalls\ApiCalls.Contracts\bin\Debug\System.Net.Http.Formatting.xml
+C:\githubrepos\ApiCalls\ApiCalls.Contracts\bin\Debug\System.Web.Http.xml
